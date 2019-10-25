@@ -152,12 +152,12 @@ ul, button {
 /*header 部分*/
 .header {
     height: 140px;
+    background-color: white;
 }
 
 .inner {
     height: 140px;
     position: relative;
-    background-color: white;
     /*background-color: aqua;*/
 }
 
@@ -306,4 +306,51 @@ ul, button {
     right: -130px;
 }
 
+/*导航栏*/
+.navItems {
+    position: absolute;
+    left: 200px;
+    bottom: 0;
+}
+
+.navItems ul {
+    float: left;
+}
+
+.navItems ul li {
+    float: left;
+}
+
+.navItems li a {
+    margin: 0 11px;
+    display: block;
+    font-weight: 700;
+    font-size: 16px;
+    color: #555a5f;
+    line-height: 40px;
+    height: 40px;
+    text-decoration: none;
+}
+
+.navItems li a:hover {
+    color: #F10215;
+}
+
+/*导航栏*/
 /*header 部分*/
+
+/*footer 部分*/
+.footer {
+    height: 560px;
+    background-color: #eaeaea;
+}
+
+/*服务模块*/
+.footer-service {
+    height: 100px;
+    border-bottom: 1px solid #dedede;
+}
+
+/*服务模块*/
+
+/*footer 部分*/
