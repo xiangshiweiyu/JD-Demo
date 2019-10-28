@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="883daba8-98c9-4585-a463-182017bead7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/image/ico.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.woff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,17 +34,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\webTest\JdDemo\image" />
+      <recent name="F:\webTest\JdDemo\fonts" />
       <recent name="F:\webTest\JdDemo" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\webTest\JdDemo\fonts" />
-      <recent name="F:\webTest\JdDemo\image" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\webTest\JdDemo" />
     </key>
   </component>
@@ -69,8 +74,18 @@
       <workItem from="1571806968925" duration="8106000" />
       <workItem from="1571880029414" duration="20277000" />
       <workItem from="1571970538953" duration="11069000" />
-      <workItem from="1571988246280" duration="5947000" />
+      <workItem from="1571988246280" duration="8944000" />
+      <workItem from="1572225951148" duration="541000" />
+      <workItem from="1572226882434" duration="6744000" />
     </task>
+    <task id="LOCAL-00001" summary="准备制作底部通栏">
+      <created>1571994957574</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571994957574</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="准备制作底部通栏" />
+    <option name="LAST_COMMIT_MESSAGE" value="准备制作底部通栏" />
   </component>
 </project>
