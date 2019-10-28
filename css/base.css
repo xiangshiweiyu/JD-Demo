@@ -30,8 +30,13 @@ ul, button {
     border: 0;
 }
 
-h5, h1, p {
+* {
     margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
 }
 
 @font-face {
@@ -372,6 +377,10 @@ h5, h1, p {
     padding: 30px 0;
 }
 
+.service ul {
+    height: 42px;
+}
+
 .service li {
     float: left;
     width: 297px;
@@ -393,6 +402,7 @@ h5, h1, p {
     left: 0;
     text-indent: -999px;
     background: url("../image/ico.png") no-repeat;
+    overflow: hidden;
 }
 
 .service_unit p {
@@ -402,11 +412,145 @@ h5, h1, p {
     font-weight: 700;
 }
 
-.service_unit .service_kuai h5 {
-    background-position: 0 -42px;
+.service_unit .kuai {
+    background-position: 0 -43px;
 }
 
+.service_unit .hao {
+    background-position: 0 -86px;
+}
+
+.service_unit .sheng {
+    background-position: 0 -129px;
+}
 
 /*服务模块*/
+
+/*帮助模块*/
+
+.help {
+    height: 180px;
+    padding-top: 20px;
+
+}
+
+.help dl {
+    float: left;
+    width: 195px;
+}
+
+.help dt {
+    font-size: 14px;
+    font-weight: 700;
+    color: #666666;
+    height: 30px;
+}
+
+.help dd {
+    height: 22px;
+}
+
+.help dd a {
+    color: #727272;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.help dd a:hover {
+    color: #F10215;
+}
+
+.help .cover {
+    float: right;
+    width: 207px;
+    height: 150px;
+    background: url("../image/ico_footer.png") no-repeat;
+}
+
+.help .cover dt {
+    text-align: center;
+}
+
+.help .info {
+    width: 175px;
+    height: 50px;
+    line-height: 18px;
+    color: #727272;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.help.infos a {
+    padding-right: 10px;
+    text-align: right;
+    color: #727272;
+    font-size: 12px;
+}
+
+/*帮助模块*/
+
+/*法律相关模块*/
+.copyRight {
+    border-top: 1px #dedede solid;
+    padding-top: 15px;
+}
+
+.links {
+    text-align: center;
+}
+
+.links a {
+    color: #727272;
+    font-size: 12px;
+}
+
+.links span {
+    color: #d4cdcd;
+    font-size: 12px;
+    margin: 0 10px;
+}
+
+.c-info {
+    margin-top: 15px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    color: #9e9e9b;
+}
+
+.photo {
+    text-align: center;
+}
+
+.photo a {
+    width: 103px;
+    height: 32px;
+    display: inline-block;
+    margin: 0 10px;
+    background: url("../image/ico_footer.png") no-repeat 0 -151px;
+}
+
+.photo .kexin {
+    background-position: -104px -151px;
+}
+
+.photo .net {
+    background-position: 0 -184px;
+}
+
+.photo .chengxin {
+    background-position: -104px -184px;
+}
+
+.photo .jubao {
+    background-position:  0 -218px;
+}
+
+.photo .download {
+    background-position: -104px -216px;
+}
+
+/*法律相关模块*/
 
 /*footer 部分*/
