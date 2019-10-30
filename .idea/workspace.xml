@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="883daba8-98c9-4585-a463-182017bead7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/image/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/gg.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/l.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/r.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/no_login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/utils_icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.woff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +13,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JdDemo" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,12 +39,12 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\webTest\JdDemo" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\webTest\JdDemo\image" />
       <recent name="F:\webTest\JdDemo\fonts" />
+      <recent name="F:\webTest\JdDemo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\webTest\JdDemo" />
     </key>
   </component>
@@ -62,6 +59,9 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",HTML5_OUTLINE_MODE" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -80,7 +80,8 @@
       <workItem from="1571988246280" duration="8944000" />
       <workItem from="1572225951148" duration="541000" />
       <workItem from="1572226882434" duration="23245000" />
-      <workItem from="1572311691908" duration="19191000" />
+      <workItem from="1572311691908" duration="22700000" />
+      <workItem from="1572397458424" duration="10615000" />
     </task>
     <task id="LOCAL-00001" summary="准备制作底部通栏">
       <created>1571994957574</created>
@@ -103,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572257040141</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="主体样式完成，左侧部分和中间部分。">
+      <created>1572339586825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572339586825</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +134,7 @@
     <MESSAGE value="准备制作底部通栏" />
     <MESSAGE value="添加多快好省" />
     <MESSAGE value="通用底部完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="通用底部完成" />
+    <MESSAGE value="主体样式完成，左侧部分和中间部分。" />
+    <option name="LAST_COMMIT_MESSAGE" value="主体样式完成，左侧部分和中间部分。" />
   </component>
 </project>
